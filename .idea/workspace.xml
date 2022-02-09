@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62cc8305-785b-4ac2-981f-85c8f6fcc119" name="Changes" comment="ex1 finished (sum changing?)">
+    <list default="true" id="62cc8305-785b-4ac2-981f-85c8f6fcc119" name="Changes" comment="ex1 feedback">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercise1/feedback.html" beforeDir="false" afterPath="$PROJECT_DIR$/exercise1/feedback.html" afterDir="false" />
     </list>
@@ -86,7 +86,8 @@
       <workItem from="1643832506601" duration="184000" />
       <workItem from="1643832693556" duration="3419000" />
       <workItem from="1643885095653" duration="2218000" />
-      <workItem from="1643893813475" duration="1634000" />
+      <workItem from="1643893813475" duration="1785000" />
+      <workItem from="1644413091423" duration="1337000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1643579586641</created>
@@ -130,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643887317366</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="ex1 feedback">
+      <created>1643895489688</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1643895489688</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,6 +161,7 @@
     <MESSAGE value="exercise1 updated" />
     <MESSAGE value="ex1 added some adjustments" />
     <MESSAGE value="ex1 finished (sum changing?)" />
-    <option name="LAST_COMMIT_MESSAGE" value="ex1 finished (sum changing?)" />
+    <MESSAGE value="ex1 feedback" />
+    <option name="LAST_COMMIT_MESSAGE" value="ex1 feedback" />
   </component>
 </project>
