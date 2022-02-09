@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62cc8305-785b-4ac2-981f-85c8f6fcc119" name="Changes" comment="feedback solved">
+    <list default="true" id="62cc8305-785b-4ac2-981f-85c8f6fcc119" name="Changes" comment="finished ex1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise1/feedback.html" beforeDir="false" afterPath="$PROJECT_DIR$/exercise1/feedback.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise1/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/exercise1/main.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +88,7 @@
       <workItem from="1643832693556" duration="3419000" />
       <workItem from="1643885095653" duration="2218000" />
       <workItem from="1643893813475" duration="1785000" />
-      <workItem from="1644413091423" duration="1832000" />
+      <workItem from="1644413091423" duration="2468000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1643579586641</created>
@@ -144,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644414492307</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="finished ex1">
+      <created>1644414958425</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1644414958425</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,6 +178,7 @@
     <MESSAGE value="ex1 finished (sum changing?)" />
     <MESSAGE value="ex1 feedback" />
     <MESSAGE value="feedback solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="feedback solved" />
+    <MESSAGE value="finished ex1" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished ex1" />
   </component>
 </project>
