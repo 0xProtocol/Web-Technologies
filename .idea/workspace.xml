@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62cc8305-785b-4ac2-981f-85c8f6fcc119" name="Changes" comment="finished ex1">
+    <list default="true" id="62cc8305-785b-4ac2-981f-85c8f6fcc119" name="Changes" comment="commented some code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercise1/feedback.html" beforeDir="false" afterPath="$PROJECT_DIR$/exercise1/feedback.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercise1/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/exercise1/main.html" afterDir="false" />
@@ -66,7 +66,7 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
-    <configuration name="main.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:50812/Web-Technologies/exercise1/main.html" useBuiltInWebServerPort="true">
+    <configuration name="main.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:59620/Web-Technologies/exercise1/main.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
@@ -88,7 +88,8 @@
       <workItem from="1643832693556" duration="3419000" />
       <workItem from="1643885095653" duration="2218000" />
       <workItem from="1643893813475" duration="1785000" />
-      <workItem from="1644413091423" duration="2468000" />
+      <workItem from="1644413091423" duration="2538000" />
+      <workItem from="1644570733628" duration="2337000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1643579586641</created>
@@ -153,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644414958425</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="commented some code">
+      <created>1644415650682</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1644415650682</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,6 +187,7 @@
     <MESSAGE value="ex1 feedback" />
     <MESSAGE value="feedback solved" />
     <MESSAGE value="finished ex1" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished ex1" />
+    <MESSAGE value="commented some code" />
+    <option name="LAST_COMMIT_MESSAGE" value="commented some code" />
   </component>
 </project>

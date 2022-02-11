@@ -1,15 +1,16 @@
 <!DOCTYPE html>   <!-- It is an "information" to the browser about what document type to expect.-->
 <html lang="en">  <!-- set basic language to english-->
-<head>
-    <meta charset="UTF-8">
-    <title>Feedback</title>
+<head>   <!-- element is a container for metadata (title, style, base, link, meta, script, noscript-->
+    <meta charset="UTF-8"> <!-- 	Specifies the character encoding for the HTML document, UTF-8 encodes each Unicode character as a variable number of 1 to 4 octets, UTF-8 is the default encoding for XML and since 2010 has become the dominant character set on the Web.-->
+    <title>Feedback</title> <!-- title of document-->
 </head>
-<body>
-<main>
-    <h1>Website Feedback Form</h1>
-    <form action="main.html">
-        <p>Is this the first time you have visited the website?</p>
-        <input type="radio" id="yes" name="visited" value="yes">
+<body> <!-- defines the document's body. Contains all elements of the html-doc.  headings, paragraphs, images, hyperlinks, tables, lists, etc.-->
+<main> <!-- specifies the main content of a document, unique-->
+    <h1>Website Feedback Form</h1> <!-- Heading -->
+    <form action="main.html"> <!-- HTML form for user input, action = send the form-data when a form is submitted-->
+        <p>Is this the first time you have visited the website?</p> <!-- defines a paragraph-->
+        <!--input field where the user can enter data (type of input | unique id for an HTML element | name that only one radiobutton is checked, value auf yes -->
+        <input type="radio" id="yes" name="visited" value="yes"> <!-- value = it defines the value associated with the input, this is also the value that is sent on submit -->
         <label for="yes">yes</label>
         <input type="radio" id="no" name="visited" value="no">
         <label for="no">no</label>
