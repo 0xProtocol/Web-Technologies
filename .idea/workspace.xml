@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62cc8305-785b-4ac2-981f-85c8f6fcc119" name="Changes" comment="commented some code">
+    <list default="true" id="62cc8305-785b-4ac2-981f-85c8f6fcc119" name="Changes" comment="commented">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise1/feedback.html" beforeDir="false" afterPath="$PROJECT_DIR$/exercise1/feedback.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercise1/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/exercise1/main.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +88,8 @@
       <workItem from="1643885095653" duration="2218000" />
       <workItem from="1643893813475" duration="1785000" />
       <workItem from="1644413091423" duration="2538000" />
-      <workItem from="1644570733628" duration="2337000" />
+      <workItem from="1644570733628" duration="2352000" />
+      <workItem from="1644831497911" duration="2050000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1643579586641</created>
@@ -161,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644415650682</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="commented">
+      <created>1644573130164</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1644573130164</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,6 +195,7 @@
     <MESSAGE value="feedback solved" />
     <MESSAGE value="finished ex1" />
     <MESSAGE value="commented some code" />
-    <option name="LAST_COMMIT_MESSAGE" value="commented some code" />
+    <MESSAGE value="commented" />
+    <option name="LAST_COMMIT_MESSAGE" value="commented" />
   </component>
 </project>
