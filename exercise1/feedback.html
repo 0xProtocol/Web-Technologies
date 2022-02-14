@@ -11,7 +11,7 @@
         <p>Is this the first time you have visited the website?</p> <!-- defines a paragraph-->
         <!--input field where the user can enter data (type of input | unique id for an HTML element | name that only one radiobutton is checked, value auf yes -->
         <input type="radio" id="yes" name="visited" value="yes"> <!-- value = it defines the value associated with the input, this is also the value that is sent on submit -->
-        <label for="yes">yes</label>
+        <label for="yes">yes</label>  <!-- for=Specifies the id of the form element - input -->
         <input type="radio" id="no" name="visited" value="no">
         <label for="no">no</label>
 
@@ -44,15 +44,15 @@
         <label for="Very Difficult">Very Difficult</label>
 
         <p>What is your overall impression of the site?</p>
-        <table>
-            <tr>
+        <table> <!-- arrange data into rows and columns-->
+            <tr> <!-- table row-->
                 <th></th>
-                <th>Below Expectations</th>
+                <th>Below Expectations</th> <!--  cells to be headers-->
                 <th>Meets Expectations</th>
                 <th>Exceeds Expectations</th>
             </tr>
             <tr>
-                <td>Professional</td>
+                <td>Professional</td> <!-- content of the table cell -->
                 <td>
                     <label for="professional below"></label>
                     <input type="radio" id="professional below" name="professional" value="professional below">
