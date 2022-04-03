@@ -1,10 +1,12 @@
 <!DOCTYPE html>         <!-- It is an "information" to the browser about what document type to expect.-->
 <html lang="en">          <!-- set basic language to english-->
 <head>  <!-- element is a container for metadata (title, style, base, link, meta, script, noscript-->
-    <meta charset="UTF-8"> <!-- 	Specifies the character encoding for the HTML document, UTF-8 encodes each Unicode character as a variable number of 1 to 4 octets, UTF-8 is the default encoding for XML and since 2010 has become the dominant character set on the Web.-->
+    <meta charset="UTF-8">
+    <!-- 	Specifies the character encoding for the HTML document, UTF-8 encodes each Unicode character as a variable number of 1 to 4 octets, UTF-8 is the default encoding for XML and since 2010 has become the dominant character set on the Web.-->
     <title>Bookshop</title> <!-- title of document-->
 </head>
-<body> <!-- defines the document's body. Contains all elements of the html-doc.  headings, paragraphs, images, hyperlinks, tables, lists, etc.-->
+<body>
+<!-- defines the document's body. Contains all elements of the html-doc.  headings, paragraphs, images, hyperlinks, tables, lists, etc.-->
 <header> <!--represents a container for introductory content or a set of navigational links-->
     <h1>Bookshop<img src="Resources/Bookstore.jpg" alt="three books on top of each other"></h1> <!-- heading -->
 </header>
@@ -12,35 +14,39 @@
     <h2>Categories</h2>
     <ul> <!-- unordered list-->
         <li><a href="#html books">HTML 5</a></li> <!--defines a list item | hyperlink-->
-        <li><a href="#javascript books">Javascript</a></li>
+        <li><a href="#javascript books">JavaScript</a></li>
         <li><a href="feedback.html">Feedback</a></li>
         <li><a href="https://www.amazon.de/" target="_blank">Browse Amazon</a></li> <!-- new tab-->
     </ul>
 </nav>
 <main> <!-- specifies the main content of a document, unique-->
     <section id="html books"> <!-- section in a doc | id= specify a unique id for an HTML element -->
-        <h1>HTML Books</h1>
+        <h1>HTML5 Books</h1>
         <article> <!-- specifies independent, self-contained content-->
             <h2>Html5: Up And Running</h2>
             <img src="Resources/HTML5_Up_And_Running.jpg" alt="HTML5 book cover Up and Running"/>
-            <label for="quantity1">Quantity:</label> <!-- for=Specifies the id of the form element - select -->
-            <select name="quantity" id="quantity1"> <!-- create a drop-down list | name =  reference the form data after the form is submitted| id= associate the drop-down list with a label -->
-                <option value="1">1</option> <!-- option in a select list | value = Specifies the value to be sent to a server-->
-                <option value="2">2</option>
-                <option value="3">3</option>
-                <option value="4">4</option>
-                <option value="5">5</option>
-            </select>
-            <button>Add to Shopping Cart</button>
-            <p>24.8 €</p> <!-- paragraph-->
-            <p>If you don't know about the new features available in HTML5, now's the time to find out. The latest
-                version of this markup language is going to significantly change the way you develop web application,
-                and this book provides your first real look at HTML5's new elements and attributes.</p>
-            <p>ISBN-13: 978-0596806026</p>
+            <p>
+                <label for="quantity1">Quantity:</label> <!-- for=Specifies the id of the form element - select -->
+                <select name="quantity" id="quantity1">
+                    <!-- create a drop-down list | name =  reference the form data after the form is submitted| id= associate the drop-down list with a label -->
+                    <option value="1">1</option>
+                    <!-- option in a select list | value = Specifies the value to be sent to a server-->
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                </select>
+                <button>Add to Cart</button>
+            </p>
+            <p>Price: 24.8 €</p> <!-- paragraph-->
+            <p>Most programming languages contain good and bad parts, but JavaScript has more than its share of the
+                bad, having been developed and released in a hurry before it could be refined.</p>
+            <p>ISBN: 978-3-16-148410-0</p>
         </article>
         <article>
-            <h2>HTML5: Pocket Reference</h2>
+            <h2>HTML5 Pocket Reference</h2>
             <img src="Resources/HTML5_Pocket_Reference.jpg" alt="HTML5 book cover Pocket Reference"/>
+            <p>
             <label for="quantity2">Quantity:</label>
             <select name="quantity" id="quantity2">
                 <option value="1">1</option>
@@ -49,19 +55,20 @@
                 <option value="4">4</option>
                 <option value="5">5</option>
             </select>
-            <button>Add to Shopping Cart</button>
-            <p>15.9 €</p>
-            <p>Need help finding the right HTML5 element or attribute for your web page or application? HTML5 Pocket
-                Reference is the classic reference that web designers and developers have keeping close at hand for more
-                than thirteen years.</p>
-            <p>ISBN-13: 978-1449363352</p>
+            <button>Add to Cart</button>
+            </p>
+            <p>Price: 15.9 €</p>
+            <p>Most programming languages contain good and bad parts, but JavaScript has more than its share of the
+                bad, having been developed and released in a hurry before it could be refined.</p>
+            <p>ISBN: 978-3-16-148410-0</p>
         </article>
     </section>
     <section id="javascript books">
-        <h1>Java Script Books</h1>
+        <h1>JavaScript Books</h1>
         <article>
-            <h2>Java Script</h2>
-            <img src="Resources/JavaScript%201.jfif" alt="JavaScript book cover the Good Parts"/>
+            <h2>JavaScript: The Definitive Guide</h2>
+            <img src="Resources/JavaScript_The_Definitive_Guide.jfif" alt="JavaScript book cover the Good Parts"/>
+            <p>
             <label for="quantity3">Quantity:</label>
             <select name="quantity" id="quantity3">
                 <option value="1">1</option>
@@ -70,16 +77,17 @@
                 <option value="4">4</option>
                 <option value="5">5</option>
             </select>
-            <button>Add to Shopping Cart</button>
-            <p>47.3 €</p>
-            <p>Since 1996, JavaScript: The Definitive Guide has been the bible for JavaScript programmers programmer's
-                guide and comprehensive reference to the core language and to the client-side JavaScript APIs defined by
-                web browsers.</p>
-            <p>ISBN-13: 9781449308162</p>
+            <button>Add to Cart</button>
+            </p>
+            <p>Price: 47.3 €</p>
+            <p>Most programming languages contain good and bad parts, but JavaScript has more than its share of the
+                bad, having been developed and released in a hurry before it could be refined.</p>
+            <p>ISBN: 978-3-16-148410-0</p>
         </article>
         <article>
-            <h2>Java Script: The good parts</h2>
-            <img src="Resources/Java%20Script%202.jfif" alt="JavaScript book cover The Definitive Guide"/>
+            <h2>JavaScript: The Good parts</h2>
+            <img src="Resources/JavaScript_The_Good_Parts.jfif" alt="JavaScript book cover The Definitive Guide"/>
+            <p>
             <label for="quantity4">Quantity:</label>
             <select name="quantity" id="quantity4">
                 <option value="1">1</option>
@@ -88,24 +96,27 @@
                 <option value="4">4</option>
                 <option value="5">5</option>
             </select>
-            <button>Add to Shopping Cart</button>
-            <p>23.9 €</p>
+            <button>Add to Cart</button>
+            </p>
+            <p>Price: 23.9 €</p>
             <p>Most programming languages contain good and bad parts, but JavaScript has more than its share of the
                 bad, having been developed and released in a hurry before it could be refined.</p>
-            <p>ISBN- 13: 0596517742</p>
+            <p>ISBN: 978-3-16-148410-0</p>
         </article>
     </section>
 </main>
 <aside> <!-- aside from the content it is placed in like Marginal notes, footnotes or links to further web pages-->
     <h2>Shopping Cart</h2>
     <p>Sum: 0 €</p>
+    <p><a href="#top">Go to Top</a></p>
 </aside>
-<footer> <!-- footer for like authorship information copyright information contact information sitemap back to top links related documents-->
+<footer>
+    <!-- footer for like authorship information copyright information contact information sitemap back to top links related documents-->
     <address> <!-- defines the contact information for the author/owner-->
-        Written by <a href="mailto:maxmustermann@example.com">Max Mustermann</a>.<br>
-        Visit us at: example.com<br>
-        1100, Vienna<br> <!-- line break-->
-        Austria<br>
+        &copy; Bookshop <br>
+        Written by <a href="mailto:janedoe@example.com">Max Mustermann</a>.<br>
+        Visit us at: <a href="https://www.fh-campuswien.ac.at/" target="_blank">FH Campus Vienna</a><br>
+        1100 Vienna, Austria<br> <!-- line break-->
     </address>
 </footer>
 </body>
