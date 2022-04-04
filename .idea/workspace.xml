@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62cc8305-785b-4ac2-981f-85c8f6fcc119" name="Changes" comment="main.html finished">
+    <list default="true" id="62cc8305-785b-4ac2-981f-85c8f6fcc119" name="Changes" comment="main.html validated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise1/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/exercise1/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise1/feedback.html" beforeDir="false" afterPath="$PROJECT_DIR$/exercise1/feedback.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +92,7 @@
       <workItem from="1644831497911" duration="2086000" />
       <workItem from="1644847212163" duration="1189000" />
       <workItem from="1648973159238" duration="3344000" />
-      <workItem from="1649060433100" duration="1200000" />
+      <workItem from="1649060433100" duration="3805000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1643579586641</created>
@@ -213,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648977952099</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="main.html validated">
+      <created>1649061765840</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1649061765840</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,6 +253,7 @@
     <MESSAGE value="exercise 1 changed exercise description" />
     <MESSAGE value="exercise 1 desc changed" />
     <MESSAGE value="main.html finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="main.html finished" />
+    <MESSAGE value="main.html validated" />
+    <option name="LAST_COMMIT_MESSAGE" value="main.html validated" />
   </component>
 </project>
