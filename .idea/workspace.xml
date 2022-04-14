@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62cc8305-785b-4ac2-981f-85c8f6fcc119" name="Changes" comment="main.html validated">
+    <list default="true" id="62cc8305-785b-4ac2-981f-85c8f6fcc119" name="Changes" comment="feedback.html validated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise1/feedback.html" beforeDir="false" afterPath="$PROJECT_DIR$/exercise1/feedback.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise2/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/exercise2/main.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,12 +64,16 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.feedback.html">
+    <configuration name="feedback.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web-Technologies/exercise1/feedback.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="main.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:59620/Web-Technologies/exercise1/main.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.feedback.html" />
         <item itemvalue="JavaScript Debug.main.html" />
       </list>
     </recent_temporary>
@@ -92,7 +96,11 @@
       <workItem from="1644831497911" duration="2086000" />
       <workItem from="1644847212163" duration="1189000" />
       <workItem from="1648973159238" duration="3344000" />
-      <workItem from="1649060433100" duration="3805000" />
+      <workItem from="1649060433100" duration="4072000" />
+      <workItem from="1649402577005" duration="453000" />
+      <workItem from="1649429147820" duration="735000" />
+      <workItem from="1649502572192" duration="324000" />
+      <workItem from="1649942888911" duration="328000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1643579586641</created>
@@ -220,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649061765840</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="feedback.html validated">
+      <created>1649064293768</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1649064293768</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -254,6 +269,7 @@
     <MESSAGE value="exercise 1 desc changed" />
     <MESSAGE value="main.html finished" />
     <MESSAGE value="main.html validated" />
-    <option name="LAST_COMMIT_MESSAGE" value="main.html validated" />
+    <MESSAGE value="feedback.html validated" />
+    <option name="LAST_COMMIT_MESSAGE" value="feedback.html validated" />
   </component>
 </project>
