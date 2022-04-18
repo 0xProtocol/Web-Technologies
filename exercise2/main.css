@@ -10,7 +10,7 @@ a:hover {
 /* 2. Flexbox the links */
 ul {
     list-style-type: none; /* Remove bullets */
-    padding-left: 3em; /* Remove padding */
+    padding-left: 2em; /* Remove padding */
     margin: 0; /* Remove margins */
     display: flex;
 }
@@ -90,5 +90,7 @@ html, body {
     margin: 0;
     overflow: auto; /* scroll through the page*/
 }
+
+/* 7. Optional. Apply media queries to provide a desktop layout/*
 
 
