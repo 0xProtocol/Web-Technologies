@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62cc8305-785b-4ac2-981f-85c8f6fcc119" name="Changes" comment="ex2 feedback (punkt 5)">
+    <list default="true" id="62cc8305-785b-4ac2-981f-85c8f6fcc119" name="Changes" comment="ex2 feedback (punkt 7 and 8)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercise2/feedback.css" beforeDir="false" afterPath="$PROJECT_DIR$/exercise2/feedback.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise2/feedback.html" beforeDir="false" afterPath="$PROJECT_DIR$/exercise2/feedback.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise2/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/exercise2/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise2/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/exercise2/main.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +76,10 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.main.html (1)">
+  <component name="RunManager" selected="JavaScript Debug.feedback.html (1)">
+    <configuration name="feedback.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:58815/Web-Technologies/exercise2/feedback.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="feedback.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web-Technologies/exercise1/feedback.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -85,6 +91,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.feedback.html (1)" />
         <item itemvalue="JavaScript Debug.main.html (1)" />
         <item itemvalue="JavaScript Debug.feedback.html" />
         <item itemvalue="JavaScript Debug.main.html" />
@@ -117,7 +124,14 @@
       <workItem from="1650013971744" duration="8556000" />
       <workItem from="1650131604194" duration="1546000" />
       <workItem from="1650305036670" duration="10128000" />
-      <workItem from="1650352577967" duration="1393000" />
+      <workItem from="1650352577967" duration="1458000" />
+      <workItem from="1650555391791" duration="2333000" />
+      <workItem from="1650634869935" duration="943000" />
+      <workItem from="1650650150543" duration="654000" />
+      <workItem from="1650703886979" duration="639000" />
+      <workItem from="1650712667766" duration="1381000" />
+      <workItem from="1650971066599" duration="761000" />
+      <workItem from="1651311022883" duration="600000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1643579586641</created>
@@ -287,7 +301,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650316292626</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="ex2 feedback (punkt 7 and 8)">
+      <created>1650354041704</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1650354041704</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -327,6 +348,7 @@
     <MESSAGE value="ex2 (punkt 4,5)" />
     <MESSAGE value="ex2 (punkt 6)" />
     <MESSAGE value="ex2 feedback (punkt 5)" />
-    <option name="LAST_COMMIT_MESSAGE" value="ex2 feedback (punkt 5)" />
+    <MESSAGE value="ex2 feedback (punkt 7 and 8)" />
+    <option name="LAST_COMMIT_MESSAGE" value="ex2 feedback (punkt 7 and 8)" />
   </component>
 </project>
