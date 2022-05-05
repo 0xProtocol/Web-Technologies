@@ -89,7 +89,6 @@ class ShoppingCart {
          */
 
 
-
     }
 
     calculateSum() {
@@ -168,36 +167,66 @@ class BookStore {
 
     addBookToDOM(category, book) {
 
-        let article = document.createElement("article");
-
-        let header3 = document.createElement("h3");
-        header3.innerHTML= book.title;
-
-        let image =document.createElement("img");
-        image.src = book.cover;
-
-        article.appendChild(header3);
 
         let section = document.getElementById(category.id);
+        let article = document.createElement("article");
+        article.className = "articleProduct";
+        article.id = book.isbn;
+
+        let bookCategory = document.createElement("h1");
+        bookCategory.textContent = book.bookCategory;
+
+        let bookTitle = document.createElement("h2");
+        bookTitle.textContent = book.bookTitle;
+
+        let bookCover = document.createElement("img");
+        bookCover.src = book.cover;
+
+
+        let labelQuantity = document.createElement("label");
+        labelQuantity.textContent = "Quantity: ";
+
+        let quantity = document.createElement("select");
+        quantity.className = "articleShoppingCartQuantity";
+        quantity.id = "articleShoppingCartQuantity_" + book.isbn;
+
+        for (let i = 1; i <= 5; i++) {
+            let option = document.createElement("option");
+            option.value = i.toString();
+            option.text = i.toString();
+            quantity.appendChild(option);
+        }
+
+        let buttonAdd = document.createElement("button");
+        buttonAdd.textContent = "Add to Shopping Cart";
+
+        buttonAdd.addEventListener("click", function () {
+            book.addTo(this.cart);
+
+        });
+
+
+        let bookPrice = document.createElement("p");
+        bookPrice.textContent = book.price + " €";
+        let bookDescription = document.createElement("p");
+        bookDescription.textContent = book.description;
+        let bookIsbn = document.createElement("p");
+        bookIsbn.textContent = "ISBN: " + book.isbn;
+
+
+        article.appendChild(bookTitle);
+        article.appendChild(bookCover);
+        article.appendChild(labelQuantity);
+        article.appendChild(quantity);
+        article.appendChild(buttonAdd);
+        article.appendChild(bookPrice);
+        article.appendChild(bookDescription);
+        article.appendChild(bookIsbn);
+
         section.appendChild(article);
-        section.appendChild(image);
 
 
-        let paragraph = document.createElement("p");
-        let  label = document.createElement("label");
-        let  select = document.createElement("select");
-        let  option = document.createElement("option");
-        let  input = document.createElement("input");
-        let  addToCart = document.createElement("button");
-        addToCart.innerHTML = "Add to cart";
-
-
-
-
-
-
-
-        /* --- Task 2 --- 
+        /* --- Task 2 ---
          * Add code to create a new article element containing 
          *   - an h3 with the book title
          *   - the book's image
