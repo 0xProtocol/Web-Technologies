@@ -1,4 +1,3 @@
-
 /* A class representing a category of books. It holds all the books belonging to this category.
  *
  * If you wonder what the three dots in the constructor are all about, see:
@@ -31,7 +30,7 @@ class Book {
     }
 
     get cartId() {
-        return `cart-isbn-${this.isbn}`;        
+        return `cart-isbn-${this.isbn}`;
     }
 
     addTo(cart) {
@@ -85,9 +84,12 @@ class ShoppingCart {
          * 
          * <li id="cart-isbn-978-0596806026">
          *     <span>Html5: Up And Running</span>
-         *     <span>3 Pcs. - 74.4€</span>
+         *     <span>3 Pcs. - 74.4ï¿½</span>
          * </li>
          */
+
+
+
     }
 
     calculateSum() {
@@ -147,9 +149,54 @@ class BookStore {
          *     <h1>HTML 5 Books</h1>
          * </section>
          */
+
+        let section = document.createElement("section");
+        section.className = "category";
+        //section.id = category.bookCategory;
+
+        let heading = document.createElement("h1");
+        heading.className = "heading1";
+        section.id = category.id;
+
+
+        heading.innerHTML = category.title;
+        section.appendChild(heading);
+
+        let mainBookScreen = document.getElementById("main");
+        mainBookScreen.appendChild(section);
     }
 
     addBookToDOM(category, book) {
+
+        let article = document.createElement("article");
+
+        let header3 = document.createElement("h3");
+        header3.innerHTML= book.title;
+
+        let image =document.createElement("img");
+        image.src = book.cover;
+
+        article.appendChild(header3);
+
+        let section = document.getElementById(category.id);
+        section.appendChild(article);
+        section.appendChild(image);
+
+
+        let paragraph = document.createElement("p");
+        let  label = document.createElement("label");
+        let  select = document.createElement("select");
+        let  option = document.createElement("option");
+        let  input = document.createElement("input");
+        let  addToCart = document.createElement("button");
+        addToCart.innerHTML = "Add to cart";
+
+
+
+
+
+
+
         /* --- Task 2 --- 
          * Add code to create a new article element containing 
          *   - an h3 with the book title
@@ -188,7 +235,7 @@ class BookStore {
          *            </select>
          *        </label>
          *        <input type="button" value="Add to cart"></p>
-         *    <p>Price: 24.8€</p>
+         *    <p>Price: 24.8ï¿½</p>
          *    <p>If you don't know about the new features available in HTML5, now's the time
          *        to find out. This book provides practical information about how and why the
          *        latest version of this markup language will significantly change the way

@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="62cc8305-785b-4ac2-981f-85c8f6fcc119" name="Changes" comment="ex2 feedback (punkt 7 and 8)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise2/feedback.css" beforeDir="false" afterPath="$PROJECT_DIR$/exercise2/feedback.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise2/feedback.html" beforeDir="false" afterPath="$PROJECT_DIR$/exercise2/feedback.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise2/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/exercise2/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise2/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/exercise2/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise3/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/exercise3/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise3/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercise3/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,16 +64,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Studium/M1/M1 2.Semester/2.Semester M1/2. Semester/WEB/Book_store_Exercise_2" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RunManager" selected="JavaScript Debug.feedback.html (1)">
     <configuration name="feedback.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:58815/Web-Technologies/exercise2/feedback.html" useBuiltInWebServerPort="true">
       <method v="2" />
@@ -132,6 +126,7 @@
       <workItem from="1650712667766" duration="1381000" />
       <workItem from="1650971066599" duration="761000" />
       <workItem from="1651311022883" duration="600000" />
+      <workItem from="1651752330969" duration="5821000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1643579586641</created>
