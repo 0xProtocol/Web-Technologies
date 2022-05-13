@@ -18,6 +18,7 @@ ul {
 
 li {
     margin: 8px; /* space between list elements*/
+    color: blue;
 }
 
 /* 3. Some header styling*/
