@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62cc8305-785b-4ac2-981f-85c8f6fcc119" name="Changes" comment="ex3 punkt2 fast fertig">
+    <list default="true" id="62cc8305-785b-4ac2-981f-85c8f6fcc119" name="Changes" comment="ex3 js ready">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise3/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/exercise3/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercise3/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/exercise3/main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise3/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercise3/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +63,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.main.html">
+  <component name="RunManager" selected="JavaScript Debug.main.html (1)">
     <configuration name="feedback.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:58815/Web-Technologies/exercise2/feedback.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -80,10 +78,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.feedback.html (1)" />
         <item itemvalue="JavaScript Debug.main.html (1)" />
-        <item itemvalue="JavaScript Debug.feedback.html" />
         <item itemvalue="JavaScript Debug.main.html" />
+        <item itemvalue="JavaScript Debug.feedback.html (1)" />
+        <item itemvalue="JavaScript Debug.feedback.html" />
       </list>
     </recent_temporary>
   </component>
@@ -305,7 +303,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651758219599</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="ex3 js ready">
+      <created>1652445037761</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1652445037761</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -347,6 +352,7 @@
     <MESSAGE value="ex2 feedback (punkt 5)" />
     <MESSAGE value="ex2 feedback (punkt 7 and 8)" />
     <MESSAGE value="ex3 punkt2 fast fertig" />
-    <option name="LAST_COMMIT_MESSAGE" value="ex3 punkt2 fast fertig" />
+    <MESSAGE value="ex3 js ready" />
+    <option name="LAST_COMMIT_MESSAGE" value="ex3 js ready" />
   </component>
 </project>
