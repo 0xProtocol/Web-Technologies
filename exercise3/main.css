@@ -8,7 +8,7 @@ a:hover {
 }aaa
 
 /* 2. Flexbox the links */
-ul {
+ul {a
     list-style-type: none; /* Remove bullets */
     padding-left: 0; /* remove padding */
     margin: 0; /* Remove margin around */
