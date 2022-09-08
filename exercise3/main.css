@@ -5,7 +5,7 @@ a {
 
 a:hover {
     font-weight: bold;//aas
-}aaa
+}aaaaa
 
 /* 2. Flexbox the links */
 ul {a
@@ -17,7 +17,9 @@ ul {a
 }
 
 li {
-    margin: 8px; /* space between list elements*/
+    margin: 8px; /* s
+
+    pace between list elements*/
     color: blue;
 }
 
