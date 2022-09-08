@@ -8,7 +8,7 @@ class Category {
         this.title = title;
         this.id = id;
         this.books = books;
-    }
+    }aaaa
 }
 
 /* A class representing a book in one of the categories. It contains getters for the ids
