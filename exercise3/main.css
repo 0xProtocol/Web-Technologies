@@ -11,7 +11,11 @@ aaaa
 ul {a
     list-style-type: none; /* Remove bullets */
     padding-left: 0; /* remove padding */
-    margin: 0; /* Remove margin araaound */
+    margin: 0; /* Remove margin araa
+
+
+
+    ound */
     display: flex;
     justify-content: center; /* center the links*/
 }
