@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62cc8305-785b-4ac2-981f-85c8f6fcc119" name="Changes" comment="ex3 js ready">
+    <list default="true" id="62cc8305-785b-4ac2-981f-85c8f6fcc119" name="Changes" comment="ex3 js ready1122">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercise3/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/exercise3/main.css" afterDir="false" />
     </list>
@@ -68,7 +68,7 @@
   "keyToString": {
     "WebServerToolWindowFactoryState": "false",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "settings.editor.selected.configurable": "shared-indexes",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -95,6 +95,9 @@
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\freedomisthegoal\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="62cc8305-785b-4ac2-981f-85c8f6fcc119" name="Changes" comment="" />
@@ -130,6 +133,7 @@
       <workItem from="1651311022883" duration="600000" />
       <workItem from="1651752330969" duration="7363000" />
       <workItem from="1662628803419" duration="842000" />
+      <workItem from="1662630032327" duration="621000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1643579586641</created>
@@ -341,7 +345,21 @@
       <option name="project" value="LOCAL" />
       <updated>1662629649828</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="ex3 js ready1122">
+      <created>1662630057933</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1662630057933</updated>
+    </task>
+    <task id="LOCAL-00032" summary="ex3 js ready1122">
+      <created>1662630245586</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1662630245586</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -359,7 +377,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="init" />
     <MESSAGE value="exercise1" />
     <MESSAGE value="exercise1 updated" />
     <MESSAGE value="ex1 added some adjustments" />
@@ -384,6 +401,7 @@
     <MESSAGE value="ex2 feedback (punkt 7 and 8)" />
     <MESSAGE value="ex3 punkt2 fast fertig" />
     <MESSAGE value="ex3 js ready" />
-    <option name="LAST_COMMIT_MESSAGE" value="ex3 js ready" />
+    <MESSAGE value="ex3 js ready1122" />
+    <option name="LAST_COMMIT_MESSAGE" value="ex3 js ready1122" />
   </component>
 </project>

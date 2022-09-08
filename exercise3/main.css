@@ -6,7 +6,7 @@ a {
 a:hover {
     font-weight: bold;//aas
 }aaaaa
-
+aa
 /* 2. Flexbox the links */
 ul {a
     list-style-type: none; /* Remove bullets */
@@ -15,7 +15,7 @@ ul {a
     display: flex;
     justify-content: center; /* center the links*/
 }
-
+dd
 li {
     margin: 8px; /* s
 
