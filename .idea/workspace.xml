@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62cc8305-785b-4ac2-981f-85c8f6fcc119" name="Changes" comment="ex3 js ready1122">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="62cc8305-785b-4ac2-981f-85c8f6fcc119" name="Changes" comment="testcommit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +53,7 @@
     <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="2e2b5aef-9626-4144-8d8e-85a50daa74ad" />
+    <option name="defaultAccountId" value="51be21c6-4ad2-49a0-8dce-4a9cebc74447" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -68,6 +66,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
@@ -136,6 +136,7 @@
       <workItem from="1651752330969" duration="7363000" />
       <workItem from="1662628803419" duration="842000" />
       <workItem from="1662630032327" duration="1414000" />
+      <workItem from="1663077352739" duration="46000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1643579586641</created>
@@ -382,7 +383,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662631214712</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="testcommit">
+      <created>1663077380355</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1663077380355</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -400,7 +408,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="exercise1" />
     <MESSAGE value="exercise1 updated" />
     <MESSAGE value="ex1 added some adjustments" />
     <MESSAGE value="ex1 finished (sum changing?)" />
@@ -425,6 +432,7 @@
     <MESSAGE value="ex3 punkt2 fast fertig" />
     <MESSAGE value="ex3 js ready" />
     <MESSAGE value="ex3 js ready1122" />
-    <option name="LAST_COMMIT_MESSAGE" value="ex3 js ready1122" />
+    <MESSAGE value="testcommit" />
+    <option name="LAST_COMMIT_MESSAGE" value="testcommit" />
   </component>
 </project>
